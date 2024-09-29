@@ -1,3 +1,5 @@
+
+# Author - Nayan
 I am creating a program which will, extract all the equations related to that particular term
 
 Basically you have to give list of equation e.g 
